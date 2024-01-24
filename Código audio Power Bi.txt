@@ -1,0 +1,10 @@
+himno_F = 
+"
+<audio controls autoplay loop>
+<source src='https://rawcdn.githack.com/tirsoo/Proyecto-Coderhouse-2/9771cb9ceaa333ebac20b8d36f9dba5bdeed5abf/Opening%20F1.mp3'
+type='audio/mp3'
+>
+"
+
+https://github.com/tirsoo/Proyecto-Coderhouse-2/blob/main/Opening%20F1.mp3
+https://rawcdn.githack.com/tirsoo/Proyecto-Coderhouse-2/9771cb9ceaa333ebac20b8d36f9dba5bdeed5abf/Opening%20F1.mp3
